@@ -29,5 +29,12 @@ export class CriarPensamentoComponent implements OnInit {
 
   }
 
+  cancelarPensamento(){
+
+    alert("Cancelado")
+
+  }
+
+
 
 }
